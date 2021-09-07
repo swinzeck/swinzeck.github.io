@@ -10,7 +10,7 @@ redirect_from:
 
 I am a post-doctoral Research Associate under the supervision of Dr. Ben Glocker at the Biomedical Image Analysis ([BioMedIA](https://biomedia.doc.ic.ac.uk/ "BioMedIA")) group at the Department of Computing, Imperial College London. I graduated with a PhD from the University of Cambridge ([Darwin College](https://www.darwin.cam.ac.uk/  "Darwin")) in 2021. Prior to that, I received a MSc in Medical Physics ([Imperial College London](http://www.imperial.ac.uk/bioengineering/ "ICL Bioengineering")) and a MSc in Biomedical Computing ([Technical University of Munich](http://campar.in.tum.de/WebHome "CAMP")).
 
-My research interets are MRI data harmonisation for multi-centre medical imaging studies and the use of machine learning tools for clinical applications, including whole body MRI, traumatic brain injury and stroke imaging analysis.
+My research interests are MRI data harmonisation for multi-centre medical imaging studies and the use of machine learning tools for clinical applications, including whole body MRI, traumatic brain injury and stroke imaging analysis.
 
 Selected Publications
 ======
